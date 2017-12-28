@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Scenario ID="GUID">
+  <Generic QueryType="1" NetID="2"/>
+  <Nodes BeginIndex="0" EndIndex="100" Total="101">
+    <Node>
+      <info Name="ID" Value="GUID"/>
+      <info Name="Name" Value="哈尔滨"/>
+      <info Name="NodeType" Value="虚拟节点"/>
+      <info Name="NodeStatus" Value="stop"/>
+      <info Name="DeviceManufacturer" Value="北邮"/>
+      <info Name="Address" Value="所在地"/>
+      <info Name="Longitude" Value="经度"/>
+      <info Name="Latitude" Value="纬度"/>
+    </Node>
+    <Node>
+      <info Name="ID" Value="GUID"/>
+      <info Name="Name" Value="齐齐哈尔"/>
+      <info Name="NodeType" Value="虚拟节点"/>
+      <info Name="NodeStatus" Value="run"/>
+      <info Name="DeviceManufacturer" Value="北邮"/>
+      <info Name="Address" Value="所在地"/>
+      <info Name="Longitude" Value="经度"/>
+      <info Name="Latitude" Value="纬度"/>
+    </Node>
+    <Node>
+      <info Name="ID" Value="GUID"/>
+      <info Name="Name" Value="黑河"/>
+      <info Name="NodeType" Value="虚拟节点"/>
+      <info Name="NodeStatus" Value="stop"/>
+      <info Name="DeviceManufacturer" Value="北邮"/>
+      <info Name="Address" Value="所在地"/>
+      <info Name="Longitude" Value="经度"/>
+      <info Name="Latitude" Value="纬度"/>
+    </Node>
+    <Node>
+      <info Name="ID" Value="GUID"/>
+      <info Name="Name" Value="大庆"/>
+      <info Name="NodeType" Value="虚拟节点"/>
+      <info Name="NodeStatus" Value="stop"/>
+      <info Name="DeviceManufacturer" Value="北邮"/>
+      <info Name="Address" Value="所在地"/>
+      <info Name="Longitude" Value="经度"/>
+      <info Name="Latitude" Value="纬度"/>
+    </Node>
+  </Nodes>
+  <Links BeginIndex="0" EndIndex="100" Total="101">
+    <Link>
+      <info Name="ID" Value="GUID"/>
+      <info Name="LinkType" Value="链路类型"/>
+      <info Name="LinkStatus" Value="链路状态"/>
+      <info Name="BandWidth" Value="带宽"/>
+      <info Name="StartNode" Value="起始节点"/>
+      <info Name="DestNode" Value="目的节点"/>
+      <info Name="Comment" Value="备注"/>
+    </Link>
+  </Links>
+  <IPs BeginIndex="0" EndIndex="100" Total="101">
+    <IP>
+      <info Name="IpAddress" Value="IP地址"/>
+      <info Name="MaskLength" Value="掩码位数"/>
+    </IP>
+    <IP>
+      <info Name="IpAddress" Value="IP地址"/>
+      <info Name="MaskLength" Value="掩码位数"/>
+    </IP>
+    <IP>
+      <info Name="IpAddress" Value="IP地址"/>
+      <info Name="MaskLength" Value="掩码位数"/>
+    </IP>
+    <IP>
+      <info Name="IpAddress" Value="IP地址"/>
+      <info Name="MaskLength" Value="掩码位数"/>
+    </IP>
+    <IP>
+      <info Name="IpAddress" Value="IP地址"/>
+      <info Name="MaskLength" Value="掩码位数"/>
+    </IP>
+  </IPs>
+</Scenario>

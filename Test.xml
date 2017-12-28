@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Scenario ID="GUID">
+    <Generic QueryType="1" NetID="2"/>
+    <Nodes BeginIndex="0" EndIndex="100">
+        <Node ID="1"/>
+        <Node ID="2"/>
+        <Node ID="3"/>
+        <Node ID="4"/>
+    </Nodes>
+    <Links BeginIndex="0" EndIndex="100">
+        <Link ID="99_101"/>
+    </Links>
+    <IPs BeginIndex="0" EndIndex="100">
+    <IP ID="1"/>
+    <IP ID="2"/>
+    <IP ID="3"/>
+    <IP ID="4"/>
+    <IP ID="5"/>
+</IPs>
+</Scenario>

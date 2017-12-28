@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Scenario ID="GUID">
+  <Generic QueryType="2" NetID="2"/>
+  <Nodes BeginIndex="0" EndIndex="100" Total="101">
+    <Node>
+      <info Name="ID" Value="GUID"/>
+      <info Name="Name" Value="名称"/>
+      <info Name="NodeType" Value="节点类型"/>
+      <info Name="NodeStatus" Value="节点状态"/>
+      <info Name="ResourceID" Value="资源ID"/>
+      <info Name="Comment" Value="备注"/>
+    </Node>
+    <Node>
+      <info Name="ID" Value="GUID"/>
+      <info Name="Name" Value="名称"/>
+      <info Name="NodeType" Value="节点类型"/>
+      <info Name="NodeStatus" Value="节点状态"/>
+      <info Name="ResourceID" Value="资源ID"/>
+      <info Name="Comment" Value="备注"/>
+    </Node>
+    <Node>
+      <info Name="ID" Value="GUID"/>
+      <info Name="Name" Value="名称"/>
+      <info Name="NodeType" Value="节点类型"/>
+      <info Name="NodeStatus" Value="节点状态"/>
+      <info Name="ResourceID" Value="资源ID"/>
+      <info Name="Comment" Value="备注"/>
+    </Node>
+    <Node>
+      <info Name="ID" Value="GUID"/>
+      <info Name="Name" Value="名称"/>
+      <info Name="NodeType" Value="节点类型"/>
+      <info Name="NodeStatus" Value="节点状态"/>
+      <info Name="ResourceID" Value="资源ID"/>
+      <info Name="Comment" Value="备注"/>
+    </Node>
+  </Nodes>
+  <Links BeginIndex="0" EndIndex="100" Total="101">
+    <Link>
+      <info Name="ID" Value="GUID"/>
+      <info Name="LinkType" Value="链路类型"/>
+      <info Name="LinkStatus" Value="链路状态"/>
+      <info Name="BusinessType" Value="业务类型"/>
+      <info Name="StartNode" Value="起始节点"/>
+      <info Name="DestNode" Value="目的节点"/>
+      <info Name="ResourceID" Value="资源ID"/>
+      <info Name="Comment" Value="备注"/>
+    </Link>
+  </Links>
+</Scenario>

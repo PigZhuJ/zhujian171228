@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf8"?>
+
+<Records>
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <Table Name="GLW_PERF_MIDL">
+  <Row>
+   <!--?????ms-->
+   <Col colValue="1" colType="string" colName="YWID"/>
+   <Col colValue="116" colType="string" colName="YJDID"/>
+   <Col colValue="119" colType="string" colName="MDID"/>
+   <Col colValue="" colType="string" colName="GZLYJD"/>
+   <Col colValue="null" colType="string" colName="BHLYJD"/>
+   <Col colValue="ASON" colType="string" colName="YWLX"/>
+   <Col colValue="155M" colType="string" colName="Granularity"/>
+   <Col colValue="2478" colType="int" colName="SBYJJLSJ"/>
+   <Col colValue="0" colType="int" colName="KYDLBHHFSJ"/>
+   <Col colValue="0" colType="int" colName="KYDLZDSJ"/>
+   <col colValue="2017-12-23 15:05:59:383" colType="Date" colName="KSSJ"/>
+   <Col colValue="2017-12-23 15:05:59:416" colType="Date" colName="JSSJ"/>
+  
+  
+  
+  
+  
+  
+  
+  </Row>
+ 
+  
+  
+  
+  
+  
+  
+  <Row>
+   
+   
+   
+   
+   
+   
+   <!--?????ms-->
+   
+   
+   
+   
+   
+   
+   <Col colValue="2" colType="string" colName="YWID"/>
+   
+   
+   
+   
+   
+   
+   <Col colValue="125" colType="string" colName="YJDID"/>
+   
+   
+   
+   
+   
+   
+   <Col colValue="122" colType="string" colName="MDID"/>
+   
+   
+   
+   
+   
+   
+   <Col colValue="" colType="string" colName="GZLYJD"/>
+   
+   
+   
+   
+   
+   
+   <Col colValue="null" colType="string" colName="BHLYJD"/>
+   
+   
+   
+   
+   
+   
+   <Col colValue="ASON" colType="string" colName="YWLX"/>
+   
+   
+   
+   
+   
+   
+   <Col colValue="622M" colType="string" colName="Granularity"/>
+   
+   
+   
+   
+   
+   
+   <Col colValue="2478" colType="int" colName="SBYJJLSJ"/>
+   
+   
+   
+   
+   
+   
+   <Col colValue="0" colType="int" colName="KYDLBHHFSJ"/>
+   
+   
+   
+   
+   
+   
+   <Col colValue="0" colType="int" colName="KYDLZDSJ"/>
+   
+   
+   
+   
+   
+   
+   <Col colValue="2017-12-23 15:06:09:387" colType="Date" colName="KSSJ"/>
+   
+   
+   
+   
+   
+   
+   <Col colValue="2017-12-23 15:06:09:427" colType="Date" colName="JSSJ"/>
+  
+  
+  
+  
+  
+  
+  </Row>
+ 
+  
+  
+  
+  
+  
+  <Row>
+   
+   
+   
+   
+   
+   <!--?????ms-->
+   
+   
+   
+   
+   
+   <Col colValue="3" colType="string" colName="YWID"/>
+   
+   
+   
+   
+   
+   <Col colValue="125" colType="string" colName="YJDID"/>
+   
+   
+   
+   
+   
+   <Col colValue="119" colType="string" colName="MDID"/>
+   
+   
+   
+   
+   
+   <Col colValue="" colType="string" colName="GZLYJD"/>
+   
+   
+   
+   
+   
+   <Col colValue="null" colType="string" colName="BHLYJD"/>
+   
+   
+   
+   
+   
+   <Col colValue="ASON" colType="string" colName="YWLX"/>
+   
+   
+   
+   
+   
+   <Col colValue="2.5G" colType="string" colName="Granularity"/>
+   
+   
+   
+   
+   
+   <Col colValue="2478" colType="int" colName="SBYJJLSJ"/>
+   
+   
+   
+   
+   
+   <Col colValue="0" colType="int" colName="KYDLBHHFSJ"/>
+   
+   
+   
+   
+   
+   <Col colValue="0" colType="int" colName="KYDLZDSJ"/>
+   
+   
+   
+   
+   
+   <Col colValue="2017-12-23 15:06:19:389" colType="Date" colName="KSSJ"/>
+   
+   
+   
+   
+   
+   <Col colValue="2017-12-23 15:06:19:406" colType="Date" colName="JSSJ"/>
+  
+  
+  
+  
+  
+  </Row>
+ 
+  
+  
+  
+  
+  <Row>
+   
+   
+   
+   
+   <!--?????ms-->
+   
+   
+   
+   
+   <Col colValue="5" colType="string" colName="YWID"/>
+   
+   
+   
+   
+   <Col colValue="106" colType="string" colName="YJDID"/>
+   
+   
+   
+   
+   <Col colValue="128" colType="string" colName="MDID"/>
+   
+   
+   
+   
+   <Col colValue="" colType="string" colName="GZLYJD"/>
+   
+   
+   
+   
+   <Col colValue="null" colType="string" colName="BHLYJD"/>
+   
+   
+   
+   
+   <Col colValue="ASON" colType="string" colName="YWLX"/>
+   
+   
+   
+   
+   <Col colValue="10G" colType="string" colName="Granularity"/>
+   
+   
+   
+   
+   <Col colValue="2478" colType="int" colName="SBYJJLSJ"/>
+   
+   
+   
+   
+   <Col colValue="0" colType="int" colName="KYDLBHHFSJ"/>
+   
+   
+   
+   
+   <Col colValue="0" colType="int" colName="KYDLZDSJ"/>
+   
+   
+   
+   
+   <Col colValue="2017-12-23 15:06:39:391" colType="Date" colName="KSSJ"/>
+   
+   
+   
+   
+   <Col colValue="2017-12-23 15:06:39:451" colType="Date" colName="JSSJ"/>
+  
+  
+  
+  
+  </Row>
+ 
+  
+  
+  
+  <Row>
+   
+   
+   
+   <!--?????ms-->
+   
+   
+   
+   <Col colValue="6" colType="string" colName="YWID"/>
+   
+   
+   
+   <Col colValue="121" colType="string" colName="YJDID"/>
+   
+   
+   
+   <Col colValue="122" colType="string" colName="MDID"/>
+   
+   
+   
+   <Col colValue="" colType="string" colName="GZLYJD"/>
+   
+   
+   
+   <Col colValue="null" colType="string" colName="BHLYJD"/>
+   
+   
+   
+   <Col colValue="ASON" colType="string" colName="YWLX"/>
+   
+   
+   
+   <Col colValue="155M" colType="string" colName="Granularity"/>
+   
+   
+   
+   <Col colValue="2478" colType="int" colName="SBYJJLSJ"/>
+   
+   
+   
+   <Col colValue="0" colType="int" colName="KYDLBHHFSJ"/>
+   
+   
+   
+   <Col colValue="0" colType="int" colName="KYDLZDSJ"/>
+   
+   
+   
+   <Col colValue="2017-12-23 15:06:49:393" colType="Date" colName="KSSJ"/>
+   
+   
+   
+   <Col colValue="2017-12-23 15:06:49:411" colType="Date" colName="JSSJ"/>
+  
+  
+  
+  </Row>
+ 
+  
+  
+  <Row>
+   
+   
+   <!--?????ms-->
+   
+   
+   <Col colValue="7" colType="string" colName="YWID"/>
+   
+   
+   <Col colValue="106" colType="string" colName="YJDID"/>
+   
+   
+   <Col colValue="107" colType="string" colName="MDID"/>
+   
+   
+   <Col colValue="" colType="string" colName="GZLYJD"/>
+   
+   
+   <Col colValue="null" colType="string" colName="BHLYJD"/>
+   
+   
+   <Col colValue="ASON" colType="string" colName="YWLX"/>
+   
+   
+   <Col colValue="622M" colType="string" colName="Granularity"/>
+   
+   
+   <Col colValue="2478" colType="int" colName="SBYJJLSJ"/>
+   
+   
+   <Col colValue="0" colType="int" colName="KYDLBHHFSJ"/>
+   
+   
+   <Col colValue="0" colType="int" colName="KYDLZDSJ"/>
+   
+   
+   <Col colValue="2017-12-23 15:06:59:395" colType="Date" colName="KSSJ"/>
+   
+   
+   <Col colValue="2017-12-23 15:06:59:402" colType="Date" colName="JSSJ"/>
+  
+  
+  </Row>
+ 
+  
+  <Row>
+   
+   <!--???��ms-->
+   
+   <Col colValue="9" colType="string" colName="YWID"/>
+   
+   <Col colValue="119" colType="string" colName="YJDID"/>
+   
+   <Col colValue="120" colType="string" colName="MDID"/>
+   
+   <Col colValue="" colType="string" colName="GZLYJD"/>
+   
+   <Col colValue="null" colType="string" colName="BHLYJD"/>
+   
+   <Col colValue="ASON" colType="string" colName="YWLX"/>
+   
+   <Col colValue="10G" colType="string" colName="Granularity"/>
+   
+   <Col colValue="2478" colType="int" colName="SBYJJLSJ"/>
+   
+   <Col colValue="0" colType="int" colName="KYDLBHHFSJ"/>
+   
+   <Col colValue="0" colType="int" colName="KYDLZDSJ"/>
+   
+   <Col colValue="2017-12-23 15:07:19:397" colType="Date" colName="KSSJ"/>
+   
+   <Col colValue="2017-12-23 15:07:19:461" colType="Date" colName="JSSJ"/>
+  
+  </Row>
+ 
+  <Row>
+   <!--ʱ�䵥λms-->
+   <Col colValue="10" colType="string" colName="YWID"/>
+   <Col colValue="116" colType="string" colName="YJDID"/>
+   <Col colValue="118" colType="string" colName="MDID"/>
+   <Col colValue="" colType="string" colName="GZLYJD"/>
+   <Col colValue="null" colType="string" colName="BHLYJD"/>
+   <Col colValue="ASON" colType="string" colName="YWLX"/>
+   <Col colValue="622M" colType="string" colName="Granularity"/>
+   <Col colValue="2478" colType="int" colName="SBYJJLSJ"/>
+   <Col colValue="0" colType="int" colName="KYDLBHHFSJ"/>
+   <Col colValue="0" colType="int" colName="KYDLZDSJ"/>
+   <Col colValue="2017-12-23 15:07:29:398" colType="Date" colName="KSSJ"/>
+   <Col colValue="2017-12-23 15:07:29:406" colType="Date" colName="JSSJ"/>
+  </Row>
+ </Table>
+</Records>
